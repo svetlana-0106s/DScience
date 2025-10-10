@@ -24,6 +24,7 @@
 
 
 Задача: прогнозирование ежедневной выручки кофейни.
+Ссылка на датасет: https://www.kaggle.com/datasets/himelsarder/coffee-shop-daily-revenue-prediction-dataset
 
 Использованы регрессоры: • Регрессор Gradient Boosting.; • ExtraTreesRegressor; • Регрессор CatBoost.; • Регрессия Лассо; • KNeighborsRegressor; • ElasticNet; • RandomForestRegressor; • DummyRegressor.
 
